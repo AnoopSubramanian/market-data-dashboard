@@ -1,5 +1,0 @@
-/home/anoop/Documents/market-data-dashboard/build/CMakeFiles/market-data-dashboard.dir
-/home/anoop/Documents/market-data-dashboard/build/CMakeFiles/edit_cache.dir
-/home/anoop/Documents/market-data-dashboard/build/CMakeFiles/rebuild_cache.dir
-/home/anoop/Documents/market-data-dashboard/build/CMakeFiles/market-data-dashboard_autogen_timestamp_deps.dir
-/home/anoop/Documents/market-data-dashboard/build/CMakeFiles/market-data-dashboard_autogen.dir
